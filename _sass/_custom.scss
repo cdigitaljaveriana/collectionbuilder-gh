@@ -2,3 +2,25 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+.btn-primary {
+    color: #000;
+    background-color: #eaf449;
+    border-color: transparent;
+    border-radius: 0;
+    text-transform: uppercase;
+}
+
+.h5, h5 {
+    font-size: 2.25rem;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-family: roboto;
+}
+
