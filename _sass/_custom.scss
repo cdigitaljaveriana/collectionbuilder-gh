@@ -3,6 +3,10 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+a {
+    color: #0f6273!important;
+}
+
 
 a:hover.btn-outline-primary {
     background-color: white!important;
