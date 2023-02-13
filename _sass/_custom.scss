@@ -3,12 +3,30 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+.btn-outline-primary {
+    color: #0f6273!important;
+    border-color:#0f6273!important;
+}
+
+
 .btn-primary {
     color: #000!important;
     background-color: #eaf449!important;
     border-color: transparent!important;
     border-radius: 0!important;
     text-transform: uppercase!important;
+}
+
+
+.btn-success {
+    background-color: #0f6273!important;
+    border-color: #0f6273!important;
+}
+
+
+.display-4 {
+    font-size: calc(1.475rem + 5.7vw)!important;
+    font-weight: 300!important;
 }
 
 .h5, h5 {
@@ -22,23 +40,9 @@
     font-family: roboto!important;
 }
 
-.text-white {
-    font-family: roboto !important;
-}
-
-.display-4 {
-    font-size: calc(1.475rem + 5.7vw)!important;
-    font-weight: 300!important;
-}
 
 p {
     font-family: roboto!important;
-}
-
-
-.btn-outline-primary {
-    color: #0f6273!important;
-    border-color:#0f6273!important;
 }
 
 
@@ -46,3 +50,10 @@ p {
     background-color: #eaf449!important;
  
 }
+
+.text-white {
+    font-family: roboto !important;
+}
+
+
+
