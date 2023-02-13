@@ -4,23 +4,21 @@
 */
 
 .btn-primary {
-    color: #000;
-    background-color: #eaf449;
-    border-color: transparent;
-    border-radius: 0;
-    text-transform: uppercase;
+    color: #000!important;
+    background-color: #eaf449!important;
+    border-color: transparent!important;
+    border-radius: 0!important;
+    text-transform: uppercase!important;
 }
 
 .h5, h5 {
-    font-size: 2.25rem;
+    font-size: 2.25rem!important;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    margin-top: 0;
-    margin-bottom: .5rem;
-    font-weight: 300;
-    line-height: 1.2;
-    text-transform: uppercase;
-    font-family: roboto;
+    font-weight: 300!important;
+    line-height: 1.2!important;
+    text-transform: uppercase!important;
+    font-family: roboto!important;
 }
 
