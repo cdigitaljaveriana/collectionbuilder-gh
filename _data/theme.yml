@@ -93,9 +93,9 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the values must match an icon svg name in "assets/lib/icons/"
 #
 # icons: 
-   icon-image: file-earmark-image.svg
-   icon-audio: cassette.svg
-   icon-video: camera-reels.svg
-   icon-pdf: file-earmark-pdf.svg
+   icon-image: file-earmark-image
+   icon-audio: cassette
+   icon-video: camera-reels
+   icon-pdf: file-earmark-pdf
    icon-default: file-earmark # fall back icon
    icon-back-to-top: arrow-up-square # scroll to top icon
