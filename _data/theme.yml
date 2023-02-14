@@ -97,5 +97,5 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
    icon-audio: cassette.svg
    icon-video: camera-reels.svg
    icon-pdf: file-earmark-pdf.svg
-   #icon-default: file-earmark # fall back icon
-   #icon-back-to-top: arrow-up-square # scroll to top icon
+   icon-default: file-earmark # fall back icon
+   icon-back-to-top: arrow-up-square # scroll to top icon
