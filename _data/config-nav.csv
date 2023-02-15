@@ -1,10 +1,10 @@
 display_name,stub,dropdown_parent
 Inicio,/
-Navegar,/browse.html
+Colección,/browse.html
 Temas,/subjects.html
 Locaciones,/locations.html
 Mapa,/map.html
 Línea de tiempo,/timeline.html
 Datos,/data.html
-About,/about.html
-About2,/about.html
+El proyecto,/about.html
+
