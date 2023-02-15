@@ -8,7 +8,6 @@ location,Locación
 latitude,Latitud
 longitude,Longitud
 source,Fuente
-dimensions, dimensiones,
 identifier,Identificador de fuente,,
 type,Tipo,
 format,Formato,
