@@ -6,7 +6,6 @@ description,Descripción,
 subject,Tema,true
 location,Locación
 latitude,Latitud
-longitude,Longitud
 source,Fuente
 identifier,Identificador de fuente,,
 type,Tipo,
