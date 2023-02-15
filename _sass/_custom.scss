@@ -27,11 +27,15 @@ a:hover.btn-outline-primary {
 }
 
 
+.bg-light {
+    background-color: #f8ffdc!important;
+    border-color: transparent!important;
+}
+
 .btn-success {
     background-color: #0f6273!important;
     border-color: #0f6273!important;
 }
-
 
 .display-4 {
     font-size: calc(1.475rem + 5.7vw)!important;
@@ -49,11 +53,18 @@ a:hover.btn-outline-primary {
     font-family: 'Roboto', sans-serif !important;
 }
 
+.marker-cluster-small div {
+    background-color: rgb(210 0 255 / 52%) !important;
+}
+
 
 p {
     font-family: 'Roboto', sans-serif !important;
 }
 
+#scroll-to-top {
+    color: #c4d006;
+}
 
 .text-dark {
     background-color: #eaf449!important;
@@ -65,12 +76,7 @@ p {
 }
 
 
-#scroll-to-top {
-    color: #c4d006;
-}
 
-.bg-light {
-    background-color: #f8ffdc!important;
-    border-color: transparent!important;
-}
+
+
 
