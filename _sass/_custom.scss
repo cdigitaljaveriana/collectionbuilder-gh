@@ -4,6 +4,8 @@
 */
 
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 a:hover.btn-outline-primary {
     background-color: white!important;
     border-color: white!important;
@@ -44,12 +46,12 @@ a:hover.btn-outline-primary {
     font-weight: 300!important;
     line-height: 1.2!important;
     text-transform: uppercase!important;
-    font-family: roboto!important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 
 p {
-    font-family: roboto!important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 
@@ -59,7 +61,7 @@ p {
 }
 
 .text-white {
-    font-family: roboto !important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 
