@@ -24,33 +24,38 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 ## Contenidos
 
-INCLUDE AN IMAGE
-Image –> {% include feature/image.html objectid="demo_001" width="75" %}
+Example Code –> 
+{% include feature/image.html objectid="demo_001" width="75" %}
 
-INCLUDE A PDF
-PDF – > {% include feature/pdf.html objectid="demo_002" width="50" %}
+Example Code –> 
+{% include feature/image.html objectid="demo_001" width="75" caption="an image" %}
 
-INCLUDE A VIDEO
-Video: {% include feature/video.html objectid="demo_004" %}
+Example Code –> 
+{% include feature/image.html objectid="demo_001;demo_004;demo_005" %}
 
-INCLUDE AN AUDIO FILE
-Audio: {% include feature/audio.html objectid="demo_003" %}
+Example Code –> 
+{% include feature/image.html objectid="demo_001;demo_004" width="75" caption="demo1;nother" %}
 
-INCLUDE BOOTSTRAP FEATURES
-The template also provides includes to make it easier to add Bootstrap components to your Markdown writing. These features allow you to better organize and highlight your content.
+Example Code –> 
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" %}
 
-INCLUDE A CARD
-Card – > {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}
+Example Code –> 
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" caption="This guy is good!"%}
 
-INCLUDE A BUTTON
-Buttons – > {% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}
+Example Code –> 
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg;https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_010.jpg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
 
-INCLUDE AN ALERT
-Alerts – > {% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}
+Example Code –> 
+{% include feature/cloud.html fields="subject" min="1" background="dark" button="outline-warning" %}
 
-INCLUDE A MODAL
-Modals – > {% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary" %}
+Example Code –> 
+{% include feature/timelinejs.html %}
 
+Card – > 
+{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}
+
+Modals – > 
+{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary" %}
 
 Fin
 
