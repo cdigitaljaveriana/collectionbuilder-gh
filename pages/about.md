@@ -52,9 +52,8 @@ Timelinejs –>
 {% include feature/timelinejs.html %}
 
 Card – > 
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true %}
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true %}
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true include feature/card.html header="This is a Card1" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true include feature/card.html header="This is a Card2" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true%}
+{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true %};{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true %}
+
 
 Alerts – > 
 {% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}
