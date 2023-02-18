@@ -1,6 +1,6 @@
 ---
 title: Acerca de
-layout: home-infographic
+layout: page-full-width
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
