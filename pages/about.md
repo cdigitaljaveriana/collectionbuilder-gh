@@ -1,6 +1,6 @@
 ---
 title: Acerca de
-layout: timelinejs
+layout: home-infographic
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
