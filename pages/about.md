@@ -1,6 +1,6 @@
 ---
 title: Acerca de
-layout: about
+layout: timelinejs
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
