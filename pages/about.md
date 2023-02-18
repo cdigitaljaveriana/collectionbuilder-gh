@@ -45,19 +45,25 @@ Example Code –>
 Example Code –> 
 {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg;https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_010.jpg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
 
-Example Code –> 
+Cloud –> 
 {% include feature/cloud.html fields="subject" min="1" background="dark" button="outline-warning" %}
 
-Example Code –> 
+Timelinejs –> 
 {% include feature/timelinejs.html %}
 
 Card – > 
 {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}
 
+Alerts – > 
+{% include feature/alert.html text="this is an *alert* that 'warns' a user" color="warning" align="center" %}
+
 Modals – > 
 {% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="when clicked:" text="A Modal will pop out a box with some more information" color="primary" %}
 
 Fin
+
+
+<!-- LOS EJEMPLOS DE CÓDIGO LOS SAQUÉ DE ACÁ: https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html  -->
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
