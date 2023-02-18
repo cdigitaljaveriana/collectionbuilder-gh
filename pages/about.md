@@ -1,6 +1,6 @@
 ---
 title: Acerca de
-layout: page-narrow
+layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
