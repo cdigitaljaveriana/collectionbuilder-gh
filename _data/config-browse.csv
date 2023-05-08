@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Fecha,,,Date
 creator,Creador,,,
-subject,,true
-location,,true
+subject,Tema,true
+location,Localización,true
