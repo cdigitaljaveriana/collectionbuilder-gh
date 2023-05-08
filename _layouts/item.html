@@ -8,14 +8,14 @@ gallery: true
 <div class="container mt-2 mb-4">
     <ul class="breadcrumb h6">
         <li class="breadcrumb-item"><a class="text-dark" href="{{ '/' | relative_url }}">{{ site.title }}</a></li>
-        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/browse.html' | relative_url }}">Browse</a></li>
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/browse.html' | relative_url }}">Buscar</a></li>
         <li id="bc-title" class="breadcrumb-item active text-dark" aria-current="page"></li>
     </ul>
 
     <h2 id="item-title"></h2>
 
     <div id="loading" class="text-center">
-        <div class="spinner-border text-secondary" role="status"><span class="visually-hidden">Loading...</span></div>
+        <div class="spinner-border text-secondary" role="status"><span class="visually-hidden">Cargando...</span></div>
     </div>
 
     <div class="row mt-3">
@@ -47,7 +47,7 @@ gallery: true
     </div>
     {% else %}
     <div class="text-center">
-        <a class="btn btn-outline-primary" href="{{ '/browse.html' | relative_url }}">&laquo; Back to Collection Browse</a>
+        <a class="btn btn-outline-primary" href="{{ '/browse.html' | relative_url }}">&laquo; Volver a la busqueda</a>
     </div>
     {% endif %}
 </div>
