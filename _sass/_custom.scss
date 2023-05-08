@@ -90,11 +90,13 @@ body {
     font-family: Roboto;
     font-size: 1.2em;
     color: #005475;
-
-    background: radial-gradient(circle, #dbdbdb 10%, transparent 11%);
+    
+    
+    background: linear-gradient(0deg, transparent 45%, #e0e0e0 45%, #e0e0e0 55%, transparent 55%, transparent 20%, #e0e0e0 20%, #e0e0e0 30%,transparent 30%);
         background-size: 1em 1em;
         background-color: #ffffff;
-        opacity: 1
+        opacity: 0.35
+
 }
 
 .card {
