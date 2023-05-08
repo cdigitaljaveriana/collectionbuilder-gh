@@ -90,13 +90,12 @@ p {
 body {
     font-family: Roboto;
     font-size: 1.2em;
-    color: #005475;
-    
-    
+    color: #005475;   
+
 background-color: #ffffff;
 opacity: 1;
-background-image: radial-gradient(#eeeeee 0.9500000000000001px, #ffffff 0.9500000000000001px);
-background-size: 19px 19px;
+background-size: 18px 18px;
+background-image: repeating-linear-gradient(45deg, #ecfbff 0, #ecfbff 1.8px, #ffffff 0, #ffffff 50%);
 
 }
 
