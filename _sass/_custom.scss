@@ -92,10 +92,13 @@ body {
     font-size: 1.2em;
     color: #005475;   
 
+
+
 background-color: #ffffff;
 opacity: 1;
-background-size: 18px 18px;
-background-image: repeating-linear-gradient(45deg, #ecfbff 0, #ecfbff 1.8px, #ffffff 0, #ffffff 50%);
+background-image:  radial-gradient(#c4e5ee 1.1px, transparent 1.1px), radial-gradient(#c4e5ee 1.1px, #ffffff 1.1px);
+background-size: 44px 44px;
+background-position: 0 0,22px 22px;
 
 }
 
