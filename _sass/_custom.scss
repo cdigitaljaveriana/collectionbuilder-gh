@@ -92,9 +92,8 @@ body {
     font-size: 1.2em;
     color: #005475;   
 
-/* 
-   
-
+/* patterns
+  
 background-color: #ffffff;
 opacity: 1;
 background-image:  radial-gradient(#c4e5ee 1.1px, transparent 1.1px), radial-gradient(#c4e5ee 1.1px, #ffffff 1.1px);
@@ -107,15 +106,15 @@ background: radial-gradient(circle, transparent 20%, #eeeeee 20%, #eeeeee 80%, t
 background-size: 45px 45px, 45px 45px, 22.5px 22.5px, 22.5px 22.5px;
 
 }  
-    
-    
-*/    
-  
-    
+        
 background-color: #eeeeee;
 opacity: 0.8;
 background-image:  linear-gradient(#ffffff 1.1px, transparent 1.1px), linear-gradient(to right, #ffffff 1.1px, #eeeeee 1.1px);
 background-size: 22px 22px;
+    
+*/    
+  
+
 
 .card {
     position: relative;
