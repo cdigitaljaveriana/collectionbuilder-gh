@@ -101,15 +101,21 @@ background-image:  radial-gradient(#c4e5ee 1.1px, transparent 1.1px), radial-gra
 background-size: 44px 44px;
 background-position: 0 0,22px 22px;
  
-    
-*/    
-    
 background-color: #eeeeee;
 opacity: 0.8;
 background: radial-gradient(circle, transparent 20%, #eeeeee 20%, #eeeeee 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #eeeeee 20%, #eeeeee 80%, transparent 80%, transparent) 22.5px 22.5px, linear-gradient(#ffffff 1.8px, transparent 1.8px) 0 -0.9px, linear-gradient(90deg, #ffffff 1.8px, #eeeeee 1.8px) -0.9px 0;
 background-size: 45px 45px, 45px 45px, 22.5px 22.5px, 22.5px 22.5px;
 
-}
+}  
+    
+    
+*/    
+  
+    
+background-color: #eeeeee;
+opacity: 0.8;
+background-image:  linear-gradient(#ffffff 1.1px, transparent 1.1px), linear-gradient(to right, #ffffff 1.1px, #eeeeee 1.1px);
+background-size: 22px 22px;
 
 .card {
     position: relative;
