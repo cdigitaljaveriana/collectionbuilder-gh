@@ -17,13 +17,25 @@ a:hover.btn-outline-primary {
     border-color:#0f6273!important;
 }
 
-
+/* 
+  
 .btn-primary {
     color: #000!important;
     background-color: #eaf449!important;
     border-color: transparent!important;
     border-radius: 0!important;
     text-transform: uppercase!important;
+}
+ 
+*/
+
+.btn-primary {
+    color: #000 !important;
+    background-color: #eaf449 !important;
+    border-color: transparent !important;
+    border-radius: 4rem !important;
+    text-transform: uppercase !important;
+    padding: 0.5rem;
 }
 
 
