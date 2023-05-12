@@ -120,8 +120,8 @@ background-size: 22px 22px;
     
 background-color: #efefef;
 opacity: 1;
-background: radial-gradient(circle, transparent 20%, #efefef 20%, #efefef 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #efefef 20%, #efefef 80%, transparent 80%, transparent) 27.5px 27.5px, linear-gradient(#ffffff 2.2px, transparent 2.2px) 0 -1.1px, linear-gradient(90deg, #ffffff 2.2px, #efefef 2.2px) -1.1px 0;
-background-size: 55px 55px, 55px 55px, 27.5px 27.5px, 27.5px 27.5px;   
+background-size: 22px 22px;
+background-image:  repeating-linear-gradient(0deg, #ffffff, #ffffff 1.1px, #efefef 1.1px, #efefef);
     
     
     
