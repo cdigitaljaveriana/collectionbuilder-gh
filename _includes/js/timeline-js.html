@@ -68,7 +68,7 @@ function pageInit(items) {
     var navYears = {{ site.data.theme.year-navigation | split: ";" | jsonify }};
     {%- else -%}
     const everyNth = (arr, nth) => arr.filter((e, i) => i % nth === nth - 1);
-    if (unique_years.length < 200){
+    if (unique_years.length < 20){
         var navYears = everyNth(unique_years, 2);
     }
     else {
