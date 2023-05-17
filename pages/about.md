@@ -13,6 +13,15 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Sobre esta colección
+Este es el resultado del ejercicio de digitalizar, coleccionar y reinterpretar artefactos y materiales pre-digitales almacenados en la Biblioteca Alfonso Borrero Cabal. Este proyecto hace parte de los ejercicios realizados por estudiantes del curso Cultura Digital de la Línea de Humanidades Digitales en la Pontificia Universidad Javeriana en Bogotá.
+
+
+## Contenidos
+
+Timelinejs –> 
+{% include feature/timelinejs.html %}
+
+
 Descripción del proyecto. This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -21,11 +30,6 @@ Descripción del proyecto. This site is generated using [CollectionBuilder-GH](h
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-## Contenidos
-
-Timelinejs –> 
-{% include feature/timelinejs.html %}
 
 Example Code –> 
 {% include feature/image.html objectid="demo_001" width="75" %}
