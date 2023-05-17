@@ -1,6 +1,6 @@
 ---
 # generate time-focused json data suitable for TimelineJS.
-# includes all items in metadata that have a "date" field filled.
+# includes all items in metadata that have a "year" field filled.
 # Curate the timeline by adding a "where" expression to the assign on the first line.
 # For details, see https://collectionbuilder.github.io/cb-docs/docs/advanced/timelinejs/  
 ---
