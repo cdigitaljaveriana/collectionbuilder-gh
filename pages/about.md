@@ -56,7 +56,7 @@ Example Code –>
 {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg;https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_010.jpg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
 
 Cloud –> 
-{% include feature/cloud.html fields="subject" min="1" background="dark" button="outline-warning" %}
+{% include feature/cloud.html fields="subject" min="1" background="light" button="outline-warning" %}
 
 
 
