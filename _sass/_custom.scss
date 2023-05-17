@@ -192,6 +192,13 @@ tbody, td, tfoot, th, thead, tr {
     border-color: #cedee4!important;
 }
 
+/* texto banner */
+.display-4 {
+    font-size: calc(1.475rem + 5.1vw) !important;
+    font-weight: 300 !important;
+    border-color: #2a475e;
+}
+
 
 /* selected text */
 ::-moz-selection { /* Code for Firefox */
