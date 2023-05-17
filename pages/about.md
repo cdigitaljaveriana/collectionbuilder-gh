@@ -24,6 +24,9 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 ## Contenidos
 
+Timelinejs –> 
+{% include feature/timelinejs.html %}
+
 Example Code –> 
 {% include feature/image.html objectid="demo_001" width="75" %}
 
@@ -48,8 +51,7 @@ Example Code –>
 Cloud –> 
 {% include feature/cloud.html fields="subject" min="1" background="dark" button="outline-warning" %}
 
-Timelinejs –> 
-{% include feature/timelinejs.html %}
+
 
 Card – > 
 {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo002" width="25" centered=true %}
