@@ -210,9 +210,6 @@ tbody, td, tfoot, th, thead, tr {
 
 }
    
-}
-
-
 .leaflet-container a.leaflet-popup-close-button {
     position: absolute;
     top: 0;
@@ -236,6 +233,11 @@ tbody, td, tfoot, th, thead, tr {
     border-radius: 0px;
 }
 
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background: rgb(237 237 237 / 89%);
+    color: #333;
+    box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+}
 
 
 
