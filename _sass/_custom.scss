@@ -207,6 +207,8 @@ tbody, td, tfoot, th, thead, tr {
     text-align: left;
     border-radius: 0px!important;
     box-shadow: 3px 3px rgba(0,0,0,0.4)!important;
+
+}
    
 }
 
@@ -225,6 +227,13 @@ tbody, td, tfoot, th, thead, tr {
     text-decoration: none;
     font-weight: bold;
     background: transparent;
+}
+
+.leaflet-container a {
+    color: #0078A8;
+    font-family: 'Roboto'sans-serif;
+    border-color: #0078A8;
+    border-radius: 0px;
 }
 
 
