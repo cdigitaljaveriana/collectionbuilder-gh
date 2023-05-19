@@ -35,8 +35,6 @@ The template repository features four objects from the University of Idaho Libra
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
-Acordeón –>{% include accordion.html title1="Example section" text1=example1 title2="Section two" text2=example2 title3="Section three" text3=example3 %}
-
 
 
 Example Code –> 
