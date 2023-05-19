@@ -240,6 +240,14 @@ tbody, td, tfoot, th, thead, tr {
     box-shadow: 0 3px 14px rgba(0,0,0,0.4);
 }
 
+.mapthumb {
+    height: 166px;
+}
+
+.leaflet-popup-content p {
+    margin: 18px 0;
+    font-size: 0.9rem;
+}
 
 
 /* selected text */
