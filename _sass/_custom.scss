@@ -250,6 +250,19 @@ tbody, td, tfoot, th, thead, tr {
 }
 
 
+.btn-dark {
+    color: #fff;
+    background-color: #0078A8;
+    border-color: #0078A8;
+    border-radius: 0px;
+}
+.btn-outline-dark {
+    color: #0078A8;
+    border-color: #0078A8;
+    border-radius: 0px;
+}
+
+
 /* selected text */
 ::-moz-selection { /* Code for Firefox */
   background: #7fcfdb;
