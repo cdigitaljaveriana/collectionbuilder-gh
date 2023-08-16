@@ -1,18 +1,20 @@
 objectid,filename,youtubeid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 demo_001,gif3.gif,,Cultura digital,Laura Mª Pérez,2023,Gif de portada,Diapositiva;Interpretación-Imágen;Portada,,,,Biblioteca General Alfonso Borrero Cabal S.J. servicios especiales ,G1-23-1-009,Image;MovingImage,image/gif,N/A,Digitalización: Laura Mª Pérez ,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_002_23,,,,"Triviño Moreno,Nicole",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_003_23,,,,"diaz pachon,laura juliana",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_004_23,,,,"Soler de la Fuente,Andrea",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_005_23,,,,"Ruiz Díaz,Nicolás",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_006_23,,,,"Montenegro Vanegas,Valeria",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_007_23,,,,"manotas velez,sofia margarita",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_008_23,,,,"Monroy Vives,Margarita Rosa",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_009_23,,,,"Henao Farfan,Natalia",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_010_23,,,,"Gutiérrez Rojas,Juan Daniel",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_011_23,,,,"Joya Maldonado,Johan Brezhnev",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_012_23,,,,"García Gutiérrez,Federico",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_013_23,,,,"Gomez Pineda,Santiago",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_014_23,,,,"Baquero Pena,Paula",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_015_23,,,,"Rodriguez Motta,Valeria",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_016_23,,,,"Hernández Ramírez,María Fernanda",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
-demo_017_23,,,,"Criswell,Sofia Belen",,,,,,,,,,,,,https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_021,Virgen_de_la_lira_DEL_SARTO_ANDREA_001.png,,Virgen de la lira (Virgen de las arpías),Andrea del Sarto,1517,Diapositiva P50 2-1. Temple sobre tabla: Virgen de la lira por Andrea del Sarto,Diapositiva;Digitalización;Arte; ,"Italia, Florencia",43.7677894,11.2527359,Biblioteca General Alfonso Borrero Cabal S.J. servicios especiales ,G2- 23-1- 006,Image;StillImage,image/png ,N/A,"Digitalización: Laura Ibagón Avila, Rebeca Torres Sepulveda, Juanita Urueña Barreto",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_023,La_bella_TIZIANO_001.png,,La bella,Tiziano,1536,Diapositiva P50 2-1. Pintura: La bella por Tiziano,Diapositiva;Digitalización;Arte; ,"Italia, Florencia",43.7651571,11.2474332,Biblioteca General Alfonso Borrero Cabal S.J. servicios especiales ,G2- 23-1- 019,Image;StillImage,image/png ,N/A,"Digitalización: Laura Ibagón Avila, Rebeca Torres Sepulveda, Juanita Urueña Barreto",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_002_23,,,,,,,,,,,,20316904,,,,"Digitalización: Triviño Moreno,Nicole",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_003_23,,,,,,,,,,,,20343147,,,,"Digitalización: diaz pachon,laura juliana",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_004_23,,,,,,,,,,,,20402271,,,,"Digitalización: Soler de la Fuente,Andrea",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_005_23,,,,,,,,,,,,20416104,,,,"Digitalización: Ruiz Díaz,Nicolás",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_006_23,,,,,,,,,,,,20432867,,,,"Digitalización: Montenegro Vanegas,Valeria",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_007_23,,,,,,,,,,,,20439361,,,,"Digitalización: manotas velez,sofia margarita",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_008_23,,,,,,,,,,,,20440173,,,,"Digitalización: Monroy Vives,Margarita Rosa",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_009_23,,,,,,,,,,,,20440657,,,,"Digitalización: Henao Farfan,Natalia",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_010_23,,,,,,,,,,,,20442426,,,,"Digitalización: Gutiérrez Rojas,Juan Daniel",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_011_23,,,,,,,,,,,,20444353,,,,"Digitalización: Joya Maldonado,Johan Brezhnev",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_012_23,,,,,,,,,,,,20452321,,,,"Digitalización: García Gutiérrez,Federico",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_013_23,,,,,,,,,,,,20457077,,,,"Digitalización: Gomez Pineda,Santiago",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_014_23,,,,,,,,,,,,20474248,,,,"Digitalización: Baquero Pena,Paula",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_015_23,,,,,,,,,,,,20520575,,,,"Digitalización: Rodriguez Motta,Valeria",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_016_23,,,,,,,,,,,,20523323,,,,"Digitalización: Hernández Ramírez,María Fernanda",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
+demo_017_23,,,,,,,,,,,,20546080,,,,"Digitalización: Criswell,Sofia Belen",https://www.oas.org/dil/esp/codigo_civil_colombia.pdf
