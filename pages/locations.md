@@ -10,4 +10,4 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Navegar por localización
 
-Utilice esta visualización de nube de palabras para buscar ubicaciones. El tamaño de las palabras está determinado por la frecuencia y todas las palabras enlazan a una búsqueda de colección correspondiente.
+Utilice esta visualización de nube de palabras para buscar ubicaciones. El tamaño de las palabras está determinado por la frecuencia. Todas las palabras enlazan a una búsqueda en la colección.
