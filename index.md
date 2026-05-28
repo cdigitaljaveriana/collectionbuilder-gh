@@ -1,5 +1,6 @@
 ---
 layout: home-infographic
-title: Home
+title: Home 
+{% raw %}{% include accessibility-toolbar.html %}{% endraw %}
 ---
 
